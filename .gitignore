@@ -1,0 +1,14 @@
+!.gitignore 
+#忽略eclipse相关文件
+.project
+.classpath
+.settings
+.metadata
+#忽略maventarget目录
+/target/
+#忽略包文件
+*.jar
+*.war
+*.ear
+#忽略class
+*.class
